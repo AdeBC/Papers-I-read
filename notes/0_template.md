@@ -1,4 +1,8 @@
-# Short name
+# Paper notes
+
+###### tags: `Paper notes`
+
+**File name should be the short name of the article.**
 
 ## Paper title
 
